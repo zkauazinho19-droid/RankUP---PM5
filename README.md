@@ -1,2 +1,2 @@
-# RankUP---PM5
-Plugin Rankup-PM5
+# RankUP / TERRENOS
+Plugin RANKUP
